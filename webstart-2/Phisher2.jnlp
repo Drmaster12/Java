@@ -1,0 +1,15 @@
+<jnlp spec="1.0"
+      codebase="http://www.coreservlets.com/webstartdemo"
+      href="Phisher2.jnlp">
+  <information>
+    <title>Phisher2</title>
+    <vendor>freesecuritywarnings.com</vendor>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.5+" 
+          href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Phisher2.jar"/>
+  </resources>
+  <application-desc main-class="Launcher2"/>
+</jnlp> 
