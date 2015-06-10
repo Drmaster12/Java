@@ -1,0 +1,1 @@
+import java.applet.Applet;public class CircleTest extends Applet {public void init()  {	setBackground(Color.RED);	add(new Circle(Color.BLUE, 30));	}}
